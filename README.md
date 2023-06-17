@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey! It's me, Batsdk 👋
 I'm a software engineer with a strong focus on Vue.js.<br>I absolutely love working with Vue, Golang, and React.<br>Right now, I'm actively looking for opportunities to contribute and collaborate on any cool projects related to Vue, Golang, or React.
 
 
