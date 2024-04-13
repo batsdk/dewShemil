@@ -1,5 +1,5 @@
 # Hey 👋
-I'm a software engineer with a strong focus on Vue.js.<br>I absolutely love working with Vue, Rust and Typescript.<br>Right now, I'm actively looking for opportunities to contribute and collaborate on any cool projects related to Vue, Golang, or React.
+I'm a software engineer with a strong focus on React & Angular.<br>I absolutely love working with C#, Rust and Typescript.<br>Right now, I'm actively looking for opportunities to contribute and collaborate on any cool projects related to Typescript, Rust, or .Net.
 
 
 ## 🌐 Socials:
