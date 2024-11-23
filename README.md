@@ -1,5 +1,5 @@
 # Wassup 👋
-- I'm Shemil.<br>- I enjoy working with Rust, TypeScript, and Go.<br>- I have solid experience with React and Vue.<br>- Currently focused on developing applications using Go and AWS.
+- I'm Shemil.<br>- I enjoy working with Rust, TypeScript, and .Net.<br>- I have solid experience with React and Vue.<br>- Currently focused on developing applications using .Net and Azure.
 
 
 ## 🌐 Socials:
